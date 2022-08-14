@@ -18,3 +18,6 @@ Plataforma de eventos, Desenvolvido no Ignite Lab, pelo tutor Diego Fernandes. A
 * [apollo](https://www.apollographql.com/)
 * [autoprefixer](https://autoprefixer.github.io/)
 * [postCSS](https://postcss.org/)
+* [phosphor-react](https://phosphoricons.com/)
+* [date-fns](https://date-fns.org/)
+
