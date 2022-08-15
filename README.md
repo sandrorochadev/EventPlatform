@@ -1,4 +1,4 @@
-## **Event Platform**
+## 📆 **Event Platform**
 
 ### 💬 Descrição
 
