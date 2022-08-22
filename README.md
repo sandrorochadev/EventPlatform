@@ -20,4 +20,5 @@ Plataforma de eventos, Desenvolvido no Ignite Lab, pelo tutor Diego Fernandes. A
 * [postCSS](https://postcss.org/)
 * [phosphor-react](https://phosphoricons.com/)
 * [date-fns](https://date-fns.org/)
+* [react-router-dom](https://v5.reactrouter.com/web/guides/quick-start)
 
