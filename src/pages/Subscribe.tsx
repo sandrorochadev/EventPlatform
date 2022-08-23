@@ -2,6 +2,7 @@ import { gql, useMutation } from "@apollo/client";
 import { useState, FormEvent } from "react";
 import { useNavigate } from "react-router-dom";
 import Logo from "../components/Logo";
+import codeMockupImg from "/src/assets/code-mockup.png";
 
 const CREATE_SUBSCRIBER_MUTATION = gql`
   mutation CreateSubscriber ($name: String!, $email: String!) {
@@ -65,7 +66,7 @@ export default function Subscribe() {
           </form>
         </div>
       </div>
-      <img src="/src/assets/code-mockup.png" className="mt-10" alt="" />
+      <img src={codeMockupImg} className="mt-10" alt="" />
     </div>
   )
 }
