@@ -41,7 +41,7 @@ export default function Video(props: VideoProps) {
       slug: props.lessonSlug,
     }
   })
-
+  console.log(data)
   if (!data) {
     return (
       <div className="flex-1">
